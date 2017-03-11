@@ -113,14 +113,6 @@ def marketPlace():
 
          
     choice = 0
-#    print("                        |       ")
-#    print("                      --+--     ")
-#    print("                       _|_      ")
-#    print("      -----#-         /___\     ")
-#    print("     `        `    ____|_|____  ")
-#    print("    /__/\_/\ _ \  /___________\ ")
-#    print("    | [].-.[]  |  | A /^^\  A | ")
-#    print("    |   | |    |  |   |..|    | ")  
     while choice is not "3":
         print("hello", hero1.name, " you have ", hero1.coin, " coins")
         print("what would you like to do? \n 1.)buy gear \n 2.)rest at inn \n 3.)Leave the Market")
